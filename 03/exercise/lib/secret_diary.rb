@@ -12,8 +12,6 @@ class SecretDiary
       @entries
     end
     @entries
-    # Returns the diary's contents if the diary is unlocked
-    # The diary starts off locked
   end
 
   def lock
